@@ -1,0 +1,15 @@
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\bin\Debug\net7.0\TalentoTrack_Dao.deps.json
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\bin\Debug\net7.0\TalentoTrack_Dao.dll
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\bin\Debug\net7.0\TalentoTrack_Dao.pdb
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\bin\Debug\net7.0\TalentoTrack_Common.dll
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\bin\Debug\net7.0\TalentoTrack_Common.pdb
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\TalentoTrack_Dao.csproj.AssemblyReference.cache
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\TalentoTrack_Dao.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\TalentoTrack_Dao.AssemblyInfoInputs.cache
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\TalentoTrack_Dao.AssemblyInfo.cs
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\TalentoTrack_Dao.csproj.CoreCompileInputs.cache
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\TalentoTrack_Dao.csproj.CopyComplete
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\TalentoTrack_Dao.dll
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\refint\TalentoTrack_Dao.dll
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\TalentoTrack_Dao.pdb
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Dao\obj\Debug\net7.0\ref\TalentoTrack_Dao.dll

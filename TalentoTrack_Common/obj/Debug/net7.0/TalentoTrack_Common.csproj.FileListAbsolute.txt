@@ -1,0 +1,11 @@
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\bin\Debug\net7.0\TalentoTrack_Common.deps.json
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\bin\Debug\net7.0\TalentoTrack_Common.dll
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\bin\Debug\net7.0\TalentoTrack_Common.pdb
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\obj\Debug\net7.0\TalentoTrack_Common.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\obj\Debug\net7.0\TalentoTrack_Common.AssemblyInfoInputs.cache
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\obj\Debug\net7.0\TalentoTrack_Common.AssemblyInfo.cs
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\obj\Debug\net7.0\TalentoTrack_Common.csproj.CoreCompileInputs.cache
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\obj\Debug\net7.0\TalentoTrack_Common.dll
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\obj\Debug\net7.0\refint\TalentoTrack_Common.dll
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\obj\Debug\net7.0\TalentoTrack_Common.pdb
+G:\C# VS.NET\TalentoTrack_API\temp\TalentoTrack_API\TalentoTrack_Git\TalentoTrack_Common\obj\Debug\net7.0\ref\TalentoTrack_Common.dll
